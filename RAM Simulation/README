@@ -1,0 +1,3 @@
+This folder contains some assembly files written in HDL (the language used in nand2tetris). 
+The Fill function fills the screen with black pixels. This is one step towards creating a UI.
+The Mult function allows the multiplication of two big numbers (each register is 15 bits).
